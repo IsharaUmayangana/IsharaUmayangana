@@ -4,7 +4,7 @@ I am a Data & AI Engineer focused on building scalable data systems, analytics p
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - Data & AI Engineer specializing in data pipelines, analytics, and machine learning systems  
 - Experience working with enterprise analytics using Microsoft Fabric and Power BI  
@@ -14,7 +14,7 @@ I am a Data & AI Engineer focused on building scalable data systems, analytics p
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 **Data Engineering & Analytics**
 - Microsoft Fabric (Lakehouse, Warehouse, Dataflows Gen2)
@@ -39,7 +39,7 @@ I am a Data & AI Engineer focused on building scalable data systems, analytics p
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 - End-to-end data pipelines and analytics systems  
 - Scalable data models and interactive BI dashboards  
@@ -47,36 +47,11 @@ I am a Data & AI Engineer focused on building scalable data systems, analytics p
 - AI-powered applications using modern LLM techniques  
 - Data-driven solutions that connect engineering with business value  
 
----
 
-## 📌 Featured Projects
+## Connect With Me
 
-> 🚧 Currently building and refining flagship projects
-
-### 1. Enterprise Data Engineering Platform
-A full data pipeline system built using Microsoft Fabric, including ingestion, transformation, data modeling, and Power BI dashboards for business analytics.
-
-### 2. AI-Powered Knowledge Assistant (RAG System)
-An AI application that retrieves and generates answers from custom data sources using embeddings and vector search.
-
-### 3. Machine Learning Business Solution
-A predictive ML system focused on solving a real-world business problem using structured data and deployable models.
-
----
-
-## 📊 GitHub Goals
-
-- Build production-style data engineering projects  
-- Develop AI systems beyond basic tutorials  
-- Focus on deployment, scalability, and architecture design  
-- Maintain clean, well-documented repositories  
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: (add your link here)  
-- Email: (add your email here)
+- LinkedIn: www.linkedin.com/in/ishara-umayangana-900722311
+- Email: isharaumayangana27@gmail.com
 
 ---
 
