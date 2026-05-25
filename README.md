@@ -30,7 +30,7 @@ I am a Data & AI Engineer focused on building scalable data systems, analytics p
 **AI Systems (Exploring & Building)**
 - LLM Applications
 - RAG (Retrieval-Augmented Generation)
-- Vector Databases (conceptual & implementation stage)
+- AI Agents
 
 **Tools & Platforms**
 - Git & GitHub
